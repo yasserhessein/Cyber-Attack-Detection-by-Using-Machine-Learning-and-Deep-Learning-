@@ -87,7 +87,7 @@ NVIDIA GPU (optional, for faster GRU training)
 📚 Citation
 
 ```
-https://doi.
+https: http://doi.org/10.11591/ijai.v15.i2.pp1219-1235.
 ```
 
 ---
