@@ -1,4 +1,4 @@
-# Cyber Attack Detection Using Swarm Optimized ML/DL Models
+# An efficient approach for cyber-attack detection by using machine learning and deep learning algorithms
 
 
 
@@ -87,7 +87,7 @@ NVIDIA GPU (optional, for faster GRU training)
 📚 Citation
 
 ```
-https: http://doi.org/10.11591/ijai.v15.i2.pp1219-1235.
+http://doi.org/10.11591/ijai.v15.i2.pp1219-1235.
 ```
 
 ---
